@@ -10,7 +10,11 @@ config_version=4
 
 [application]
 
+<<<<<<< HEAD
 config/name="Project2-Space-Shooter"
+=======
+config/name="Menu and HUD"
+>>>>>>> e523e16e41eb0dfa0239b537861f9ceed49bed8c
 run/main_scene="res://UI/Main_Menu.tscn"
 config/icon="res://icon.png"
 
